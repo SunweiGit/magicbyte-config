@@ -12,7 +12,7 @@
 	<groupId>org.magicbyte</groupId>
 	<artifactId>service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>config</name>
+	<name>magicbyte-config</name>
 	<description>config project for Spring Boot</description>
 
 	<properties>
