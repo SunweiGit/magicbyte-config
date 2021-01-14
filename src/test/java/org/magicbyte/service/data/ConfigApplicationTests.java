@@ -1,4 +1,4 @@
-package org.magicbyte.service.config;
+package org.magicbyte.service.data;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

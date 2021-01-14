@@ -1,6 +1,8 @@
+server:
+  port: 8001
 spring:
   application:
-    name: config-single-server  # 应用名称
+    name: magicbyte-config  # 应用名称
   cloud:
     config:
       server:
