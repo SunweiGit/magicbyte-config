@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: "https://github.com/SunweiGit/config" #配置文件所在仓库
+          uri: "https://github.com/SunweiGit/magicbyte-config" #配置文件所在仓库
           username:
           password:
           default-label: master #配置文件分支
