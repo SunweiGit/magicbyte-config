@@ -46,3 +46,8 @@ data:
   user:
     username: eureka-client-user
     password: 1291029104
+
+elastic-search:
+  scheme: http
+  hostname:
+    - localhost:9200
