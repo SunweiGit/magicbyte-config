@@ -51,3 +51,13 @@ elastic-search:
   scheme: http
   hostname:
     - localhost:9200
+
+
+
+swagger:
+  apiInfoTitle: "Magic Byte Api"
+  apiInfoVersion: "v1.0"
+  apiInfoDescription: ""
+  apiInfoTermsOfServiceUrl: ""
+  apiInfoLicense: ""
+  apiInfoLicenseUrl: ""
