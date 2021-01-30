@@ -57,7 +57,7 @@ elastic-search:
 swagger:
   apiInfoTitle: "Magic Byte Api"
   apiInfoVersion: "v1.0"
-  apiInfoDescription: ""
-  apiInfoTermsOfServiceUrl: ""
+  apiInfoDescription: "Magic Byte Api 文档"
+  apiInfoTermsOfServiceUrl: "/doc.html"
   apiInfoLicense: ""
   apiInfoLicenseUrl: ""
